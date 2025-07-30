@@ -26,7 +26,7 @@ This project is a simple **Personal To-Do List Application** developed in Python
 ---
 ## 🗂️ Project Folder Structure
 
-todo_app/
+todo_app/<br>
 ├── todo_gui.py # GUI version using Tkinter<br>
 ├── todo.py # Command-line version (optional)<br>
 ├── tasks.json # JSON file storing all tasks<br>
