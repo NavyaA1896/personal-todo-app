@@ -1,0 +1,14 @@
+[
+    {
+        "title": "udemy Day 21",
+        "description": "snake game",
+        "category": "work",
+        "completed": true
+    },
+    {
+        "title": "DSA",
+        "description": "infosys spring boot",
+        "category": "work",
+        "completed": false
+    }
+]
